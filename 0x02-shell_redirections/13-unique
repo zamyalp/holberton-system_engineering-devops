@@ -1,2 +1,2 @@
 #!/bin/bash
-head lists | uniq
+head list | uniq
