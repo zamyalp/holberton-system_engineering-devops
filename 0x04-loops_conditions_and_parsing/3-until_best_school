@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+until [ $i = 10 ]; do echo "Best School"; i=$((i+1)); done
