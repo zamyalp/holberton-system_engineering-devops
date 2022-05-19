@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 # use a second terminal to kill the first progam
+
 kill $(pgrep -f "4-to_infinity_and_beyond") 
